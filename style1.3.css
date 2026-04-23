@@ -14,7 +14,9 @@ body {
   align-items: center;
   position: relative;
 }
-
+.hero {
+  background: url('photos/赤柱202410/dclassic 2024-10-12 150342.667.jpg') center/cover no-repeat;
+}
 .hero-text {
   color: black;
   color:white;
