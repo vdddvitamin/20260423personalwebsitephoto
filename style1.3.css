@@ -8,14 +8,14 @@ body {
 /* ===== Hero ===== */
 .hero {
   height: 100vh;
-  background: url("photos/赤柱202410/dclassic 2024-10-12 150342.667.jpg") center/cover no-repeat;
+  background: url("photos/赤柱202410/150342.667.jpg") center/cover no-repeat;
   display: flex;
   justify-content: center;
   align-items: center;
   position: relative;
 }
 .hero {
-  background: url('photos/赤柱202410/dclassic 2024-10-12 150342.667.jpg') center/cover no-repeat;
+  background: url('photos/赤柱202410/150342.667.jpg') center/cover no-repeat;
 }
 .hero-text {
   color: black;
